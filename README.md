@@ -18,7 +18,7 @@ Un solo archivo, `LoL-Caster-HUD.exe` (~80 MB). No hay que instalar nada ni crea
 
 1. **Crea una carpeta** para el programa (por ejemplo `Documentos\LoL Caster HUD`) y mete ahí `LoL-Caster-HUD.exe`. Al abrirlo crea a su lado la carpeta `datos`, donde guarda tus ajustes, logos y patrocinadores.
 2. **Ábrelo con doble clic.**
-   - Si Windows dice «Windows protegió su PC»: **Más información → Ejecutar de todas formas** (solo la primera vez; sale con cualquier programa que no lleve una firma de pago).
+   - Si Windows dice «Windows protegió su PC»: **Más información → Ejecutar de todas formas**. Solo pasa esta vez: las actualizaciones se hacen desde el panel y ya no sale.
    - Sale una **ventana negra**: déjala abierta mientras retransmites. Si la cierras, el HUD se apaga.
    - Se abre el **panel de control** en el navegador. Si lo cierras, vuelve a abrir el `.exe` o entra en `http://localhost:8787/control`.
 3. En el panel, pestaña **Configuración**:
@@ -90,7 +90,9 @@ Las repeticiones usan la **línea de tiempo oficial de Riot**, que se descarga s
 
 ## Actualizar
 
-Cuando hay versión nueva, el panel avisa. Cierra el programa, descarga el `.exe` nuevo y sustituye el viejo; la carpeta `datos` se conserva.
+Cuando hay versión nueva, el panel la anuncia arriba: pulsa **«Actualizar ahora»** (mejor entre partidas, porque el HUD se recarga). El programa la descarga, se cambia solo y se reinicia en una ventana nueva; tus ajustes se conservan y **el aviso de Windows ya no sale**.
+
+Si tienes la 0.1.3 o anterior, el botón aún no existe: esa vez cierra el programa, descarga el `.exe` nuevo y sustituye el viejo (la carpeta `datos` se conserva).
 
 ## Seguridad
 

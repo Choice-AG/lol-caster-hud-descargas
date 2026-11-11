@@ -54,6 +54,7 @@ Arriba del panel se ve si hay partida conectada y si hay línea de tiempo de Rio
 - **7 intros** de inicio y las **alineaciones** con las 10 splash arts (salen solas al empezar la partida).
 - **Gráfica de la diferencia de oro** (15 s).
 - **Pantallas**: «Empezamos en breve» (con cuenta atrás), «Pausa técnica», «Volvemos enseguida».
+- **Pantallas de liga**: **Clasificación** (victorias, derrotas y % de cada equipo, ordenada sola, con los dos de la partida marcados) y **Próximo partido** (los dos equipos, la hora o una cuenta atrás y una nota), con el logo de la liga. Se rellenan en la pestaña **Partida** («Añadir los equipos guardados» mete toda tu lista).
 - **Resumen de la última pelea** (botón «Resumen de la última pelea», también en el mando): por equipo sus kills, sus muertes y lo que ha gastado cada jugador (definitiva y hechizos); en el centro el resultado (p. ej. 1 – 3), quién gana y el oro movido. Si lo quieres automático al acabar cada pelea, actívalo en la pestaña HUD.
 - **Pantalla de final**: VICTORIA con la comparativa de los dos equipos. En repeticiones sale sola.
 - **Casters** y **patrocinadores** en la esquina de abajo a la izquierda (tapan el panel de cámara del juego, no la ficha del jugador): los casters a la izquierda y el patrocinador a la derecha; si solo hay uno, ocupa la esquina entera. Para los patrocinadores van mejor logos de unos **220×150** (pestaña **HUD**, con interruptor para apagarlos al momento).

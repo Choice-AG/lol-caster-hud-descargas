@@ -2,6 +2,8 @@
 
 Overlay para retransmitir partidas de **League of Legends** desde el modo espectador: se pone encima del juego en OBS y le da aspecto de emisión oficial (marcador, estadísticas 5v5, dragones, power plays, intros, pantallas de pausa…). Se controla desde un panel en el navegador, el móvil o atajos de teclado.
 
+https://github.com/user-attachments/assets/1dacfd11-fb92-4412-833d-0823f5df337a
+
 ### **[⬇ Descargar la última versión](https://github.com/Choice-AG/lol-caster-hud-descargas/releases/latest)**
 
 Un solo archivo, `LoL-Caster-HUD.exe` (~80 MB). No hay que instalar nada ni crear cuentas.

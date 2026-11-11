@@ -42,21 +42,21 @@ Arriba del panel se ve si hay partida conectada y si hay línea de tiempo de Rio
 
 **Siempre**
 - **Marcador de arriba**: logos, nombres, serie (barras de partidas ganadas), kills, torres, oro y diferencia de oro, tiempo, y una franja con los dragones (y el alma), larvas y Barones de cada equipo.
-- **Estadísticas 5v5 abajo**: campeón, nivel, vida y maná/energía/furia, **definitiva y hechizos** (con los segundos de recarga), KDA, CS, visión y objetos con los mismos números que el juego (pociones, Preferencia, Sello oscuro…). Se resalta al jugador que sigue la cámara.
+- **Estadísticas 5v5 abajo**: campeón, nivel, vida y maná/energía/furia, **definitiva y hechizos** (con los segundos de recarga), KDA, CS, visión y objetos en el mismo orden y con los mismos números que el juego (Soberbia, Corazón de acero, pociones, Preferencia…; a 1080p se leen la mayoría y, si uno no se lee entero, no se pone). Se resalta al jugador que sigue la cámara.
 - **Arriba a la izquierda**: cuenta atrás del próximo dragón y Barón, cajas de **power play** (Barón y Ancestral) con el oro ganado, y aviso cuando **aparece** un objetivo.
 - **Kill feed** con asistencias, torres, inhibidores y objetivos, y timers de inhibidores y torres de nexo caídos.
 
 **Cuando pasa algo**
 - Retratos con splash art del asesino (KILL, DOUBLE KILL… PENTAKILL) y la víctima; anuncios grandes en el centro para pentas, aces y robos.
-- **Resumen de pelea** al acabar cada pelea: quién la gana, las caras de los caídos y qué ha gastado cada jugador (definitiva y hechizos).
 - Avisos de nivel 6/11/16, objetos completos y **shutdowns**.
 
 **Lo que lanzas tú** (pestaña **En directo**, mando o atajos)
 - **7 intros** de inicio y las **alineaciones** con las 10 splash arts (salen solas al empezar la partida).
 - **Gráfica de la diferencia de oro** (15 s).
 - **Pantallas**: «Empezamos en breve» (con cuenta atrás), «Pausa técnica», «Volvemos enseguida».
+- **Resumen de la última pelea** (botón «Resumen de la última pelea», también en el mando): por equipo sus kills, sus muertes y lo que ha gastado cada jugador (definitiva y hechizos); en el centro el resultado (p. ej. 1 – 3), quién gana y el oro movido. Si lo quieres automático al acabar cada pelea, actívalo en la pestaña HUD.
 - **Pantalla de final**: VICTORIA con la comparativa de los dos equipos. En repeticiones sale sola.
-- **Casters** y **patrocinadores** en la esquina de abajo a la izquierda (tapan el panel de cámara del juego, no la ficha del jugador): los casters en una línea y el patrocinador debajo; si solo hay uno, ocupa la esquina entera. Para los patrocinadores van mejor logos apaisados de unos **300×80** (pestaña **HUD**, con interruptor para apagarlos al momento).
+- **Casters** y **patrocinadores** en la esquina de abajo a la izquierda (tapan el panel de cámara del juego, no la ficha del jugador): los casters a la izquierda y el patrocinador a la derecha; si solo hay uno, ocupa la esquina entera. Para los patrocinadores van mejor logos de unos **220×150** (pestaña **HUD**, con interruptor para apagarlos al momento).
 
 ## Atajos y mando
 

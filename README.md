@@ -19,7 +19,7 @@ Un solo archivo, `LoL-Caster-HUD.exe` (~80 MB). No hay que instalar nada ni crea
 1. **Crea una carpeta** para el programa (por ejemplo `Documentos\LoL Caster HUD`) y mete ahí `LoL-Caster-HUD.exe`. Al abrirlo crea a su lado la carpeta `datos`, donde guarda tus ajustes, logos y patrocinadores.
 2. **Ábrelo con doble clic.**
    - Si Windows dice «Windows protegió su PC»: **Más información → Ejecutar de todas formas**. Solo pasa esta vez: las actualizaciones se hacen desde el panel y ya no sale.
-   - Sale una **ventana negra**: déjala abierta mientras retransmites. Si la cierras, el HUD se apaga.
+   - No sale ninguna ventana: el programa queda funcionando con su **icono junto al reloj de Windows** (si no lo ves, está en la flecha «^»). **Doble clic** en el icono abre el panel; **clic derecho → Cerrar LoL Caster HUD** lo apaga (también en el panel: Configuración → Programa).
    - Se abre el **panel de control** en el navegador. Si lo cierras, vuelve a abrir el `.exe` o entra en `http://localhost:8787/control`.
 3. En el panel, pestaña **Configuración**:
    - **API de repeticiones del juego**: si sale desactivada, **cierra el LoL** y pulsa «Activar». Hace falta para ocultar la interfaz del juego y leer el CS exacto. Un punto naranja en la pestaña avisa si falta.
@@ -82,7 +82,8 @@ Las repeticiones usan la **línea de tiempo oficial de Riot**, que se descarga s
 
 ## Problemas frecuentes
 
-- **No se ve nada en OBS**: comprueba que la ventana negra sigue abierta y pulsa **Configuración → Recargar el HUD en OBS**.
+- **No se ve nada en OBS**: comprueba que el icono del programa sigue junto al reloj (si no, vuelve a abrir el `.exe`) y pulsa **Configuración → Recargar el HUD en OBS**.
+- **Algo falla y no sabes por qué**: lo que hace el programa queda apuntado en `datosegistro.txt` (y la vez anterior en `registro-anterior.txt`), junto al `.exe`.
 - **El CS o los números de los objetos no cuadran**: el panel de abajo del juego tiene que estar visible y la ventana del LoL sin minimizar (puede estar detrás de otras). Usa 1920×1080 o 2560×1440 con la escala de la interfaz del juego por defecto. Si no se puede leer, el HUD estima esos números.
 - **«Activar» la API de repeticiones no funciona**: tiene que estar el LoL **cerrado** (se guarda antes una copia de su configuración).
 - **Un atajo sale como ocupado**: otro programa usa esa combinación; ciérralo o usa el panel o el mando.
@@ -90,7 +91,7 @@ Las repeticiones usan la **línea de tiempo oficial de Riot**, que se descarga s
 
 ## Actualizar
 
-Cuando hay versión nueva, el panel la anuncia arriba: pulsa **«Actualizar ahora»** (mejor entre partidas, porque el HUD se recarga). El programa la descarga, se cambia solo y se reinicia en una ventana nueva; tus ajustes se conservan y **el aviso de Windows ya no sale**.
+Cuando hay versión nueva, el panel la anuncia arriba: pulsa **«Actualizar ahora»** (mejor entre partidas, porque el HUD se recarga). El programa la descarga, se cambia solo y se reinicia; tus ajustes se conservan y **el aviso de Windows ya no sale**.
 
 Si tienes la 0.1.3 o anterior, el botón aún no existe: esa vez cierra el programa, descarga el `.exe` nuevo y sustituye el viejo (la carpeta `datos` se conserva).
 

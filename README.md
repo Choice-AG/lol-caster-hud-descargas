@@ -29,7 +29,10 @@ Un solo archivo, `LoL-Caster-HUD.exe` (~80 MB). No hay que instalar nada ni crea
 ## En cada partida
 
 1. Abre el `.exe` (y OBS).
-2. Pestaña **Partida**: nombre, subtítulo y logo de cada equipo (**⇄ Intercambiar lados** lo cambia todo de golpe), formato de la serie (BO1/BO3/BO5) y marcador, y nombres de los casters.
+2. Pestaña **Partida**:
+   - **Equipos**: elige cada uno del desplegable **«Equipo guardado»** o escribe nombre, subtítulo y logo (con **«Guardar en la lista»** queda guardado para la próxima vez). **⇄ Intercambiar lados** lo cambia todo de golpe.
+   - **Nombres de jugadores**: el nombre que sale en el HUD en lugar del Riot ID. **«Añadir los de la partida»** trae los 10 jugadores; escribe sus nombres y pulsa «Guardar nombres» (se quedan guardados).
+   - Logo de la **liga** (sale bajo el reloj), formato de la serie (BO1/BO3/BO5) y marcador, y nombres de los **casters**.
 3. Entra como **espectador** en la sala personalizada, o abre una **repetición**.
 4. En el juego deja visible el **panel de abajo con los jugadores** (en OBS lo tapa el del HUD): de ahí se leen el CS, los números de los objetos y el oro exactos. Lo demás del juego (kill feed, timers, barra de la repetición) lo esconde el HUD solo.
 
@@ -53,7 +56,7 @@ Arriba del panel se ve si hay partida conectada y si hay línea de tiempo de Rio
 - **Gráfica de la diferencia de oro** (15 s).
 - **Pantallas**: «Empezamos en breve» (con cuenta atrás), «Pausa técnica», «Volvemos enseguida».
 - **Pantalla de final**: VICTORIA con la comparativa de los dos equipos. En repeticiones sale sola.
-- **Rótulo de casters** y **patrocinadores** rotando abajo a la izquierda (pestaña **HUD**, con interruptor para apagarlos al momento).
+- **Casters** y **patrocinadores** en la esquina de abajo a la izquierda (tapan el panel de cámara del juego, no la ficha del jugador): los casters en una línea y el patrocinador debajo; si solo hay uno, ocupa la esquina entera. Para los patrocinadores van mejor logos apaisados de unos **300×80** (pestaña **HUD**, con interruptor para apagarlos al momento).
 
 ## Atajos y mando
 
@@ -91,7 +94,7 @@ Las repeticiones usan la **línea de tiempo oficial de Riot**, que se descarga s
 
 ## Actualizar
 
-Cuando hay versión nueva, el panel la anuncia arriba: pulsa **«Actualizar ahora»** (mejor entre partidas, porque el HUD se recarga). El programa la descarga, se cambia solo y se reinicia; tus ajustes se conservan y **el aviso de Windows ya no sale**.
+Cuando hay versión nueva (se mira cada 30 minutos), el panel la anuncia arriba: pulsa **«Actualizar ahora»** (mejor entre partidas, porque el HUD se recarga). El programa la descarga, se cambia solo y se reinicia; tus ajustes se conservan y **el aviso de Windows ya no sale**.
 
 Si tienes la 0.1.3 o anterior, el botón aún no existe: esa vez cierra el programa, descarga el `.exe` nuevo y sustituye el viejo (la carpeta `datos` se conserva).
 

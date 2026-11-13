@@ -44,7 +44,7 @@ Arriba del panel se ve si hay partida conectada y si hay línea de tiempo de Rio
 
 **Siempre**
 - **Marcador de arriba**: logos, nombres, serie (barras de partidas ganadas), kills, torres, oro y diferencia de oro, tiempo, y una franja con los dragones (y el alma), larvas y Barones de cada equipo.
-- **Estadísticas 5v5 abajo**: campeón, nivel, vida y maná/energía/furia, **definitiva y hechizos** (con los segundos de recarga), KDA, CS, visión y objetos en el mismo orden y con los mismos números que el juego (Soberbia, Corazón de acero, pociones, Preferencia…; a 1080p se leen la mayoría y, si uno no se lee entero, no se pone). Se resalta al jugador que sigue la cámara.
+- **Estadísticas 5v5 abajo**: campeón, nivel, vida y maná/energía/furia, **definitiva y hechizos** (con los segundos de recarga), KDA, CS, visión y objetos en el mismo orden y con los mismos números que el juego (Soberbia, Corazón de acero, pociones, Preferencia…; a 1080p se leen la mayoría y, si uno no se lee entero, no se pone). Junto al trinket, la **misión de rol** de cada jugador: en gris mientras está en curso y, al completarla, su recompensa con borde dorado (en el ADC, sus botas, que pasan a ese hueco). Se resalta al jugador que sigue la cámara.
 - **Arriba a la izquierda**: cuenta atrás del próximo dragón y Barón, cajas de **power play** (Barón y Ancestral) con el oro ganado, y aviso cuando **aparece** un objetivo.
 - **Kill feed** con asistencias, torres, inhibidores y objetivos, y timers de inhibidores y torres de nexo caídos.
 

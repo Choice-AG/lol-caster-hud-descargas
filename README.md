@@ -40,6 +40,8 @@ Un solo archivo, `LoL-Caster-HUD.exe` (~80 MB). No hay que instalar nada ni crea
 
 Arriba del panel se ve si hay partida conectada y si hay línea de tiempo de Riot.
 
+En la pestaña **En directo** tienes dos monitores con el juego de fondo: **Vista previa** y **En emisión** (lo que sale en OBS). Con «Vista previa antes de emitir» activada, al pulsar la intro, la gráfica de oro, el resumen de pelea o una pantalla, primero sale en la vista previa y no va a OBS hasta que pulsas **«Emitir ▶»**. Así ves cómo queda antes de sacarlo.
+
 ## Qué se ve en pantalla
 
 **Siempre**

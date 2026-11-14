@@ -42,6 +42,8 @@ Arriba del panel se ve si hay partida conectada y si hay línea de tiempo de Rio
 
 En la pestaña **En directo** tienes dos monitores con el juego de fondo: **Vista previa** y **En emisión** (lo que sale en OBS). Con «Vista previa antes de emitir» activada, al pulsar la intro, la gráfica de oro, el resumen de pelea o una pantalla, primero sale en la vista previa y no va a OBS hasta que pulsas **«Emitir ▶»**. Así ves cómo queda antes de sacarlo.
 
+En la pestaña **Comprobación** ves si el programa lee bien el juego antes de emitir: la última captura con el minimapa y las fichas recuadrados (donde se coloca el HUD), un semáforo de cada cosa (ventana 16:9, lectura, KDA y CS, fichas, misiones, oro, línea de tiempo…) y **«Copiar informe»**, para pegarlo en un chat si alguien te ayuda a configurarlo.
+
 ## Qué se ve en pantalla
 
 **Siempre**

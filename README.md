@@ -58,7 +58,8 @@ En la pestaña **Comprobación** ves si el programa lee bien el juego antes de e
 - Avisos de nivel 6/11/16, objetos completos y **shutdowns**.
 
 **Lo que lanzas tú** (pestaña **En directo**, mando o atajos)
-- **7 intros** de inicio y las **alineaciones** con las 10 splash arts (salen solas al empezar la partida).
+- **Intro** de inicio (sale sola al empezar la partida): los paneles azul y rojo chocan en diagonal con los logos, los nombres y el VS; después entran las cartas de los 5 jugadores de cada equipo (campeón, rol y jugador) y, al terminar, los logos vuelan al marcador y cada campeón cae en su casilla de la tabla. En la pestaña HUD eliges si sale sola o solo con el botón, y si lleva los jugadores.
+- **Alineaciones** con las 10 splash arts, con su botón.
 - **Gráfica de la diferencia de oro** (15 s).
 - **Pantallas**: «Empezamos en breve» (con cuenta atrás), «Pausa técnica», «Volvemos enseguida».
 - **Pantallas de liga**: **Clasificación** (victorias, derrotas y % de cada equipo, ordenada sola, con los dos de la partida marcados) y **Próximo partido** (los dos equipos, la hora o una cuenta atrás y una nota), con el logo de la liga. Se rellenan en la pestaña **Partida** («Añadir los equipos guardados» mete toda tu lista).
